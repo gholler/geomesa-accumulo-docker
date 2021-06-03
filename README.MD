@@ -1,6 +1,6 @@
 Dockerfile and resources to build a docker container that can play the role of accumulo master or slave or both, with Geomesa runtime and tools installed on top of it.
 
-It is based on https://github.com/cybermaggedon/accumulo-docker/tree/v1.9.3a and we strongly advice to refer to the README of this project for al aspects relating to accumulo and dependencies
+It is based on https://github.com/cybermaggedon/accumulo-docker/tree/v1.9.3a and we strongly advice to refer to the README of this project for all aspects relating to accumulo and dependencies
 on external zookeepers and hdfs. 
 
 
